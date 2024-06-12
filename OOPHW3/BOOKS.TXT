@@ -1,0 +1,24 @@
+1001  2014  102  7  An Introduction to GCC Toolchain
+1002  2016  111  3  Beginning Algorithms
+1003  2019  113  5  Beginning C++ Game Programming
+1004  2018  110  1  Beginning C++17 From Novice to Professional
+1005  2012  110  4  Beginning Visual C++
+1006  2013  107  7  C for Engineers and Scientists
+1007  2016  117  6  C How to Program
+1008  2012  106  3  C++ for Everyone
+1009  2016  108  6  C++ How to Program
+1010  2015  116  3  C++ Quick Syntax Reference
+1011  2018  122  3  Cross-Platform Development in C++
+1012  2014  115  2  Data Structures and Algorithm Analysis in C++
+1013  2012  118  6  Java Programming Language
+1014  2017  109  7  Java The Complete Reference
+1015  2020  119  1  Modern C++ for Absolute Beginners
+1016  2017  120  2  Numerical Recipes in C
+1017  2017  101  7  Object-Oriented Analysis and Design
+1018  2012  118  7  Object-Oriented Programming in C++
+1019  2019  114  3  Object-Oriented Programming Using C++
+1020  2016  105  5  Object-oriented Programming with Java
+1021  2017  121  5  Practical C++ Programming
+1022  2018  103  2  The C programming Language
+1023  2015  104  2  Programming in C++
+1024  2018  112  4  Windows via C/C++

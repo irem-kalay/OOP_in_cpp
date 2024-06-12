@@ -1,0 +1,22 @@
+101  Aurelie Linden
+102  James Riverton
+103  Brian Kernighan
+104  Bruce Eckel
+105  Pierre Wieleon
+106  Paul Hauwess
+107  John Bronson
+108  Harvey Deitel
+109  Herbert Schildt
+110  Ivor Horton
+111  Timothy McPeice
+112  Jeffrey Richter
+113  John Sanfield
+114  Harris Wanstead
+115  Mark Allen Weiss
+116  Michael Dundredge
+117  Paul Deitel
+118  Robert Lafore
+119  George Leimers
+120  Lawrence Strutton
+121  Steve Newark
+122  Edward Schultz
